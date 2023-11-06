@@ -5,10 +5,10 @@
 <h2 align="center">Языки на которых я пишу:</h2>
 <P>
   <div style="display: inline-block;">
-    <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)"/>
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
   </div>
   <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
+    <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)"/>
   </div>
 </P>
 <h2 align="center">Самые интересные проекты:</h2>
