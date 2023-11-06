@@ -13,19 +13,14 @@
 </P>
 <h2 align="center">Самые интересные проекты:</h2>
 <p>
-  <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Пример"></a>
+  <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a>
 </p>
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚙️ Мой стек и фреймверки:
+- 🖌️ WPF 
+- 🔥 MAUI
+- 💀 UWP
+- 💪 ASP Net Core
+- 📶 SignalR
+- 🐘 PostgreSQL
+- 🤪 MS Sql
