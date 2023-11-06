@@ -1,7 +1,7 @@
 <h1 align="center">Привет, Я Даниил <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# разработчик, студент ЕКТС (4 курс)</h3>
 
-### ❤️‍🔥 Языки на которых я пишу:
+### 🖌️ Языки на которых я пишу:
 <ul>
   <li>
     <div style="display: inline-block;">
@@ -16,7 +16,7 @@
 </ul>
 
 
-### Самые интересные проекты:
+### 🖌️ Самые интересные проекты:
 <ul>
   <li>
     <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a> - АРМ салона красоты
