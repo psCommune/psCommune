@@ -4,7 +4,9 @@
 ### 🖌️ Языки на которых я пишу:
 <ul>
   <li>
-    
+    <div style="display: inline-block;">
+      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
+    </div>
   </li>
   <li>
     <div style="display: inline-block;">
