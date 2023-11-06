@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm <a href="" target="_blank">Daniil</a> 
+<h1 align="center">Привет, Я <a href="https://t.me/ps_Commune" target="_blank">Даниил</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Студент ЕКТС (4 курс)</h3>
+<h3 align="center">C# разработчик, студент ЕКТС (4 курс)</h3>
 <h2 align="center">Самые интересные проекты:</h2>
 <p>ghjtrn 1</p>
+<h2 align="center">Языки на которых я пишу:</h2>
 
 
 Here are some ideas to get you started:
