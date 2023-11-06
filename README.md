@@ -6,7 +6,7 @@
 
 <h2 align="center">Самые интересные проекты:</h2>
 <p>
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" href="https://t.me/ps_Commune" target="_blank"/>
+  <a href="[sample.html](https://github.com/psCommune/VelvetEyebrows)"><img src="[images/sample.gif](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)" width="50" height="32" alt="Пример"></a>
 </p>
 
 
