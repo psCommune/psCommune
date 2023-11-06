@@ -22,3 +22,8 @@
 - 🖌️ Xamarin
 - 🖌️ MS Sql
 - 🖌️ SQLite
+
+### 🖌️ Мои социальные сети:
+
+<a href="https://vk.com/fooxboy" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
+<a href="https://t.me/fooxboy" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
