@@ -1,6 +1,6 @@
 <h1 align="center">Привет, Я Даниил <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# разработчик, студент ЕКТС (4 курс)</h3>
-<h2 align="center">Языки на которых я пишу:</h2>
+### 🖌️ Языки на которых я пишу:
 <P>
   <div style="display: inline-block;">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
