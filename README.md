@@ -18,9 +18,7 @@
 
 ### ⚙️ Мой стек и фреймверки:
 - 🖌️ WPF 
-- 🔥 MAUI
-- 💀 UWP
-- 💪 ASP Net Core
-- 📶 SignalR
-- 🐘 PostgreSQL
-- 🤪 MS Sql
+- 🖌️ ASP Net Core
+- 🖌️ Xamarin
+- 🖌️ MS Sql
+- 🖌️ SQLite
