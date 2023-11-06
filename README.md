@@ -1,5 +1,10 @@
 <h1 align="center">Привет, Я Даниил <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">C# разработчик, студент ЕКТС (4 курс)</h3>
+<h2 align="center">Самые интересные проекты:</h2>
+<p>
+  <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a>
+</p>
+
 ### ❤️‍🔥 Языки на которых я пишу:
 <ul>
   <li>
@@ -13,10 +18,7 @@
     </div>
   </li>
 </ul>
-<h2 align="center">Самые интересные проекты:</h2>
-<p>
-  <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a>
-</p>
+
 
 ### ⚙️ Мой стек и фреймверки:
 - 🖌️ WPF 
