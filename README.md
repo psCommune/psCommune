@@ -19,7 +19,10 @@
 ### 🖌️ Самые интересные проекты:
 <ul>
   <li>
-    <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a> - АРМ салона красоты
+    <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ"></a> - АРМ салона красоты
+  </li>
+  <li>
+    <a href="https://github.com/psCommune/kursovoi_v2"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильный аудио плеер
   </li>
 </ul>
 
