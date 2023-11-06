@@ -35,5 +35,5 @@
 
 ### 🖌️ Мои социальные сети:
 
-<a href="https://t.me/ps_Commune" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
+<a href="https://vk.com/1sovet3" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
 <a href="https://t.me/ps_Commune" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
