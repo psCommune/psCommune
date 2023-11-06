@@ -19,7 +19,7 @@
 ### Самые интересные проекты:
 <ul>
   <li>
-    <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a>
+    <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ салона красоты"></a> - АРМ салона красоты
   </li>
 </ul>
 
