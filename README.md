@@ -27,9 +27,9 @@
 </ul>
 
 ### ⚙️ Мой стек и фреймверки:
--  WPF 
+-  WPF  
 -  ASP Net Core
--  Xamarin
+-  Xamarin  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg"/>
 -  MS Sql
 -  SQLite
 
