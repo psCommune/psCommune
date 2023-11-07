@@ -10,7 +10,7 @@
   </li>
   <li>
     <div style="display: inline-block;">
-      <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)"/>
+      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
     </div>
   </li>
 </ul>
