@@ -1,7 +1,8 @@
 # Привет, Я Даниил!
 
 ### 🖌️ Немного обо мне:
-Я Junior разработчик.  
+Я Junior разработчик. Путь начался с обучения в [ЕКТС](https://www.ects.ru). Стаж разработки 3 года, 6 месяцев на коммерческой основе в [НПО Автоматики](https://www.npoa.ru/) в качестве техника программиста.
+
 
 ### ⚙️ Мой стек и фреймверки:
 -  WPF  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" height="16"/>
