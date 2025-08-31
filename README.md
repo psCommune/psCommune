@@ -1,7 +1,7 @@
-#Привет, Я Даниил!
+# Привет, Я Даниил!
 
 ### 🖌️ Немного обо мне:
-Я Junior разработчик. Окончил [ЕКТС](https://www.ects.ru/) 
+Я Junior разработчик.  
 
 ### ⚙️ Мой стек и фреймверки:
 -  WPF  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" height="16"/>
@@ -24,11 +24,10 @@
   </li>
 </ul>
 
-### 💬 Мои социальные сети:
+### 💬 Связаться со мной:
 
-<a href="https://vk.com/1sovet3" target="_blank"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=fff"/></a>
 <a href="https://t.me/ps_Commune" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psCommune&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrevetOchka_more&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- postman, figma, html, css -->
