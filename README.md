@@ -1,19 +1,8 @@
 <h1 align="center">Привет, Я Даниил!</h1>
 <h3 align="center">Junior разработчик, выпускник ЕКТС</h3>
 
-### 🖌️ Языки на которых я пишу:
-<ul>
-  <li>
-    <div style="display: inline-block;">
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C Sharp&logoColor=fff"/>
-    </div>
-  </li>
-  <li>
-    <div style="display: inline-block;">
-      <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
-    </div>
-  </li>
-</ul>
+### 🖌️ Немного обо мне:
+
 
 ### ⚙️ Мой стек и фреймверки:
 -  WPF  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" height="16"/>
@@ -23,7 +12,7 @@
 -  SQLite <img src="https://geek-nose.com/wp-content/uploads/2015/04/SQLite370.svg_.png" height="16"/>
 -  Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="16"/>
 
-### ⚡ Самые интересные проекты:
+### ⚡ Демонстрационные проекты:
 <ul>
   <li>
     <a href="https://github.com/psCommune/kursovoi_4kurs"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Сервис прослушивания аудио контента (web-плеер)
