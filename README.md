@@ -25,7 +25,7 @@
 
 ### 💬 Связаться со мной:
 
-<a href="https://t.me/ps_Commune" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
+<a href="https://t.me/KrevetOchka_more" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=Telegram&logoColor=fff"/></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@KrevetOchka_more&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
