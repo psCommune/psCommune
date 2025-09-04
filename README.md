@@ -25,7 +25,6 @@
 -  ASP Net Core <img src="https://uploads-ssl.webflow.com/5eb90728dc345d1fe8bed774/62b93b442f00915f2a007514_image%206.png" height="16"/>
 -  Xamarin  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" height="16"/>
 -  MS Sql <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="16"/>
--  Firebase <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="16"/>
 
 ### ⚡ Демонстрационные проекты:
 <ul>
