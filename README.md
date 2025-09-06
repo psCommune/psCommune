@@ -26,7 +26,7 @@
 -  Xamarin  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" height="16"/>
 -  MS Sql <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="16"/>
 
-### ⚡ Демонстрационные проекты:
+### ⚡ Pet-проекты:
 <ul>
   <li>
     <a href="https://github.com/psCommune/kursovoi_4kurs"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Web-сервис прослушивания аудио контента (Asp.Net Core)
