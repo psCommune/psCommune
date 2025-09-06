@@ -20,6 +20,8 @@
 - веб в ASP.Net Core
 - мобильная разработка на основе Jetpack Compose + Kotlin | Xamarin + C#
 
+Знаком с паттернами, применял MVC и MVVM.
+
 ### ⚙️ Мой стек и фреймверки:
 -  WPF  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" height="16"/>
 -  ASP Net Core <img src="https://uploads-ssl.webflow.com/5eb90728dc345d1fe8bed774/62b93b442f00915f2a007514_image%206.png" height="16"/>
