@@ -15,9 +15,9 @@
 ### Про учебу
 Путь начался с обучения в [ЕКТС](https://www.ects.ru).  
 В процессе обучения пробовал себя в разных направлениях:  
+- веб в ASP.Net Core
 - разработку под десктоп в WPF
 - в десктоп проектах использовал MS SQL Server 
-- веб в ASP.Net Core
 - мобильная разработка на основе Jetpack Compose + Kotlin | Xamarin + C#
 
 Знаком с паттернами, применял [MVVM](https://github.com/psCommune/kursovoi_4kurs) и [MVC](https://github.com/psCommune/VelvetEyebrows).
