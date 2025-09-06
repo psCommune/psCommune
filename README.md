@@ -34,7 +34,7 @@
     <a href="https://github.com/psCommune/kursovoi_4kurs"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Web-сервис прослушивания аудио контента (Asp.Net Core)
   </li>
   <li>
-    <a href="https://github.com/psCommune/kursovoi_v2"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильный аудио плеер
+    <a href="https://github.com/psCommune/kursovoi_v2"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильный аудио плеер (Android Studio)
   </li>
   <li>
     <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ"></a> - АРМ салона красоты (WPF)
