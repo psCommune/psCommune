@@ -23,6 +23,7 @@
 - разработку под десктоп в WPF
 - в десктоп проектах использовал MS SQL Server 
 - мобильная разработка на основе Jetpack Compose + Kotlin | Xamarin + C#
+- освоил базовые навыки работы с HTML/CSS.
 
 Знаком с паттернами, применял [MVVM](https://github.com/psCommune/kursovoi_4kurs) и [MVC](https://github.com/psCommune/VelvetEyebrows).
 
