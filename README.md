@@ -25,7 +25,7 @@
 - мобильная разработка на основе Jetpack Compose + Kotlin | Xamarin + C#
 - освоил базовые навыки работы с HTML/CSS.
 
-Знаком с паттернами, применял [MVVM](https://github.com/psCommune/kursovoi_4kurs) и [MVC](https://github.com/psCommune/VelvetEyebrows).
+Знаком с паттернами, применял MVVM и MVC.
 
 ### ⚙️ Мой стек и фреймверки:
 -  WPF  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihTXrlDqM9PFfRBTfzhoq78nNZPkUQ-KMaxyhuThl61aNI9ZhcQbiW2OCKLo9HHnBsQz4QlLp7c3kBhrJU4sqDfu17gjEd2WBDREbNT2F6-YC7zBRazZzqysK9W68x1PcENtyvCtLZHVmUHYmv6RRCcEyaXeTtZ2xBx-2F78nBU_oW8arIkXUtReak9A/s200/wpf-xaml-curso-gratis-online.png" height="16"/>
