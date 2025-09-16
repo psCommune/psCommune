@@ -34,10 +34,10 @@
 -  MS Sql <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="16"/>
 
 ### ⚡ Pet-проекты:
-- [Web-сервис прослушивания аудио контента (Asp.Net Core)](https://github.com/psCommune/kursovoi_4kurs)
-- [АРМ салона красоты (WPF)](https://github.com/psCommune/VelvetEyebrows)
-- [Мобильный аудио плеер (Android Studio)](https://github.com/psCommune/kursovoi_v2)
-- [Мобильное приложение обращающееся к API (Android Studio)](https://github.com/psCommune/-RMPPraktika14)
+- [Web-сервис прослушивания аудио контента](https://github.com/psCommune/kursovoi_4kurs) (Asp.Net Core)
+- [АРМ салона красоты](https://github.com/psCommune/VelvetEyebrows) (WPF)
+- [Мобильный аудио плеер](https://github.com/psCommune/kursovoi_v2) (Android Studio)
+- [Мобильное приложение обращающееся к API](https://github.com/psCommune/-RMPPraktika14) (Android Studio)
 
 ### 💬 Связаться со мной:
 
