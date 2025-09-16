@@ -44,6 +44,9 @@
   <li>
     <a href="https://github.com/psCommune/kursovoi_v2"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильный аудио плеер (Android Studio)
   </li>
+  <li>
+    <a href="(https://github.com/psCommune/-RMPPraktika14)"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильное приложение обращающееся к API (Android Studio)
+  </li>
 </ul>
 
 ### 💬 Связаться со мной:
