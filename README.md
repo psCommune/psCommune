@@ -34,20 +34,10 @@
 -  MS Sql <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="16"/>
 
 ### ⚡ Pet-проекты:
-<ul>
-  <li>
-    <a href="https://github.com/psCommune/kursovoi_4kurs"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Web-сервис прослушивания аудио контента (Asp.Net Core)
-  </li>
-  <li>
-    <a href="https://github.com/psCommune/VelvetEyebrows"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="АРМ"></a> - АРМ салона красоты (WPF)
-  </li>
-  <li>
-    <a href="https://github.com/psCommune/kursovoi_v2"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильный аудио плеер (Android Studio)
-  </li>
-  <li>
-    <a href="(https://github.com/psCommune/-RMPPraktika14)"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Плеер"></a> - Мобильное приложение обращающееся к API (Android Studio)
-  </li>
-</ul>
+- [Web-сервис прослушивания аудио контента (Asp.Net Core)](https://github.com/psCommune/kursovoi_4kurs)
+- [АРМ салона красоты (WPF)](https://github.com/psCommune/VelvetEyebrows)
+- [Мобильный аудио плеер (Android Studio)](https://github.com/psCommune/kursovoi_v2)
+- [Мобильное приложение обращающееся к API (Android Studio)](https://github.com/psCommune/-RMPPraktika14)
 
 ### 💬 Связаться со мной:
 
