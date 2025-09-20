@@ -39,6 +39,8 @@
 - [АРМ салона красоты](https://github.com/psCommune/VelvetEyebrows) (WPF)
 - [Мобильный аудио плеер](https://github.com/psCommune/kursovoi_v2) (Android Studio)
 - [Мобильное приложение обращающееся к API](https://github.com/psCommune/-RMPPraktika14) (Android Studio)
+- [Мобильное приложение с применением Jetpack Compose](https://github.com/psCommune/GetpacComposeProject) (Android Studio)
+- [Мобильное приложение с логированием в LogCat](https://github.com/psCommune/RMPPraktika12) (Android Studio)
 
 ### 💬 Связаться со мной:
 
