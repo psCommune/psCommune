@@ -48,7 +48,7 @@
 - [Мобильное приложение с применением Jetpack Compose](https://github.com/psCommune/GetpacComposeProject) (Android Studio)
 - [Мобильное приложение с логированием в LogCat](https://github.com/psCommune/RMPPraktika12) (Android Studio)
 - [Знакомство с Docker](https://github.com/psCommune/docker--minimalApi)
-- [Десктоп приложение отеля](https://github.com/psCommune/Durgasoft-Hotel)
+- [Десктоп приложение отеля](https://github.com/psCommune/Durgasoft-Hotel) (WPF)
 
 ### 💬 Связаться со мной:
 
